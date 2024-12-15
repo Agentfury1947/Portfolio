@@ -1,0 +1,13 @@
+ROWID,Country,SourceYear,Details of grant-wise expenditure,Estimate Type,Grant wise break up of Defense expenditure ,YearCode,Year
+1,India,2017-18,Grant No 19 MoD (Misc.),Actuals,15144.57,2017,"Financial Year (Apr - Mar), 2017"
+2,India,2018-19,Grant No 19 MoD (Misc.),Revised Estimate,16318.49,2018,"Financial Year (Apr - Mar), 2018"
+3,India,2019-20,Grant No 19 MoD (Misc.),Budget Estimate,17065.12,2019,"Financial Year (Apr - Mar), 2019"
+4,India,2017-18,Grant No 20 Defence Services (Revenue),Actuals,182121.42,2017,"Financial Year (Apr - Mar), 2017"
+5,India,2018-19,Grant No 20 Defence Services (Revenue),Revised Estimate,188118.10,2018,"Financial Year (Apr - Mar), 2018"
+6,India,2019-20,Grant No 20 Defence Services (Revenue),Budget Estimate,198485.76,2019,"Financial Year (Apr - Mar), 2019"
+7,India,2017-18,Grant No 21 Capital Outlay on Defence Services,Actuals,90438.39,2017,"Financial Year (Apr - Mar), 2017"
+8,India,2018-19,Grant No 21 Capital Outlay on Defence Services,Revised Estimate,93982.13,2018,"Financial Year (Apr - Mar), 2018"
+9,India,2019-20,Grant No 21 Capital Outlay on Defence Services,Budget Estimate,103380.34,2019,"Financial Year (Apr - Mar), 2019"
+10,India,2017-18,Grant No 22 Defence Pensions,Actuals,91999.58,2017,"Financial Year (Apr - Mar), 2017"
+11,India,2018-19,Grant No 22 Defence Pensions,Revised Estimate,106775.14,2018,"Financial Year (Apr - Mar), 2018"
+12,India,2019-20,Grant No 22 Defence Pensions,Budget Estimate,112079.57,2019,"Financial Year (Apr - Mar), 2019"
